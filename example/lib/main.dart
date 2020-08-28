@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:octicons/octicons.dart';
+import 'package:octicons_icon/octicons_icon.dart';
 
 void main() => runApp(MyApp());
 
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Icon(
-            Octicons.person,
+            OctIcons.person,
             color: Colors.green,
           ),
         ),

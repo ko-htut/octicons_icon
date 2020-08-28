@@ -9,7 +9,7 @@
 1. Add dependency, open the root directory `pubspec.yaml`File in`dependencies:`Add the following code below
 
  ```yaml
- octicons: #latest
+ octicons_icon: #latest
  ```
 
 2. Installation dependencies (please ignore if it has been installed automatically)
@@ -22,7 +22,7 @@
 3. Introduce the library in the page
 
 ```dart
-import 'package:octicons/octicons.dart';
+import 'package:octicons_icon/octicons.dart';
 ```
 ## Usage
 ```dart
