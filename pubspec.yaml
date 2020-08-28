@@ -1,11 +1,10 @@
 name: octicons_icon
-description: Flutter class for Octicons
-version: 0.0.1
+description: The octicons_icon are intended to be easy to use in flutter
+version: 0.0.2
 homepage: https://github.com/ko-htut/octicons
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
 
 dependencies:
   flutter:
