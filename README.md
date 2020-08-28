@@ -29,7 +29,8 @@ import 'package:octicons/octicons.dart';
 Icon(Octicons.person),
 ```
 ## Credit
- - Flutter Icon ["https://www.fluttericon.com"]
+ - Flutter Icon [https://www.fluttericon.com]
+ - Octicons[https://github.com/primer/octicons]
 ## License
 
 MIT
