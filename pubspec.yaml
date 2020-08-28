@@ -38,11 +38,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  flutter:
-    fonts:
+  fonts:
     - family: Octicons
       fonts:
-        - asset: fonts/octicons.ttf
+        - asset: lib/assets/fonts/octicons.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
