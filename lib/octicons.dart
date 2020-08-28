@@ -1,3 +1,3 @@
 library octicons;
 
-export './src/octicons_icon.dart';
+export 'src/octicons_icon.dart';

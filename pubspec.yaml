@@ -1,8 +1,8 @@
 name: octicons
 description: A new Flutter package project.
 version: 0.0.1
-author:
-# homepage:
+author: Ko Htut <fellinglove8@gmail.com>
+homepage: https://github.com/ko-htut/octicons
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -38,7 +38,8 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  fonts:
+  flutter:
+    fonts:
     - family: Octicons
       fonts:
         - asset: fonts/octicons.ttf

@@ -1,15 +1,13 @@
-# octicons
+# Octicons
 
-A new Flutter package project.
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/4608155/74476584-77155300-4e5e-11ea-88c6-6c9f64cf0f05.png" alt="Octicons cover" />
+</p>
 
-## Getting Started
+## Guide
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+## Credit
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-# octicons
+## License
+
+MIT
