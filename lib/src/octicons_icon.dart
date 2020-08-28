@@ -4,7 +4,7 @@ class OctIcons {
   OctIcons._();
 
   static const _kFontFam = 'Octicons';
-  static const _kFontPkg = "octicons";
+  static const _kFontPkg = "octicons_icon";
 
   static const IconData arrow_small_left =
       IconData(0xf300, fontFamily: _kFontFam, fontPackage: _kFontPkg);
